@@ -30,7 +30,7 @@ export default function Header() {
 
           <div className='col-md-4 text-center'>
             <Link href='/' className={`${allison.className} navbar-brand d-inline-flex link-body-emphasis text-decoration-none py-0 mx-0 ${styles.navbarBrand}`}>
-              Marcotel
+              ProngsTravel
             </Link>
           </div>
 

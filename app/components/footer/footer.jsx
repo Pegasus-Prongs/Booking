@@ -12,12 +12,12 @@ export default function Footer() {
         <div className='col-md-4 d-flex flex-column mt-1 text-center'>
           <p className='mb-0'>
             <a
-              href='https://github.com/alexiscirmi/nextjs-hotel-booking'
+              href='https://github.com/Pegasus-Prongs/booking'
               target='_blank'
               rel='noreferrer'
               className='nav-link-footer pe-1'
             >
-              Alexis Cirmi
+              Pegasus Prongs
             </a>
             <CCircle className={styles.biCCircle} />
           </p>
@@ -28,7 +28,7 @@ export default function Footer() {
           href='#body'
           className={`${allison.className} col-md-4 d-flex justify-content-center text-decoration-none fs-1`}
         >
-          M
+          P
         </a>
       </Container>
     </footer>
